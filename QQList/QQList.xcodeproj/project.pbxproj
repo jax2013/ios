@@ -1,0 +1,348 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		18922BC012D6F57E002BBFD4 /* online.png in Resources */ = {isa = PBXBuildFile; fileRef = 18922BBE12D6F57E002BBFD4 /* online.png */; };
+		18922BC112D6F57E002BBFD4 /* unOnline.png in Resources */ = {isa = PBXBuildFile; fileRef = 18922BBF12D6F57E002BBFD4 /* unOnline.png */; };
+		18B7B83D127167A500C4C9E7 /* bgd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18B7B835127167A500C4C9E7 /* bgd.jpg */; };
+		18B7B83E127167A500C4C9E7 /* bgd1.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B7B836127167A500C4C9E7 /* bgd1.png */; };
+		18B7B840127167A500C4C9E7 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18B7B838127167A500C4C9E7 /* MainWindow.xib */; };
+		18B7B841127167A500C4C9E7 /* normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B7B839127167A500C4C9E7 /* normal.png */; };
+		18B7B842127167A500C4C9E7 /* pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B7B83A127167A500C4C9E7 /* pressed.png */; };
+		18B7B843127167A500C4C9E7 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18B7B83B127167A500C4C9E7 /* RootViewController.xib */; };
+		18B7B844127167A500C4C9E7 /* source.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18B7B83C127167A500C4C9E7 /* source.plist */; };
+		18B7B89D12716ED600C4C9E7 /* info.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B7B89C12716ED600C4C9E7 /* info.png */; };
+		18B7B8E7127172C100C4C9E7 /* headericon.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B7B8E6127172C100C4C9E7 /* headericon.png */; };
+		18B7B9091271752800C4C9E7 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18B7B9081271752800C4C9E7 /* iAd.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		18B7BAAB1271913B00C4C9E7 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B7BAA91271913B00C4C9E7 /* Default.png */; };
+		18B7BAAC1271913B00C4C9E7 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 18B7BAAA1271913B00C4C9E7 /* icon.png */; };
+		1D3623260D0F684500981E51 /* China36PlansAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* China36PlansAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
+		28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		18922BBE12D6F57E002BBFD4 /* online.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = online.png; sourceTree = "<group>"; };
+		18922BBF12D6F57E002BBFD4 /* unOnline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unOnline.png; sourceTree = "<group>"; };
+		18B7B835127167A500C4C9E7 /* bgd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bgd.jpg; sourceTree = "<group>"; };
+		18B7B836127167A500C4C9E7 /* bgd1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgd1.png; sourceTree = "<group>"; };
+		18B7B837127167A500C4C9E7 /* QQList-Info.plist */ = {isa = PBXFileReference; fileEncoding = 2147486000; lastKnownFileType = text.plist.xml; path = "QQList-Info.plist"; sourceTree = "<group>"; };
+		18B7B838127167A500C4C9E7 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		18B7B839127167A500C4C9E7 /* normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = normal.png; sourceTree = "<group>"; };
+		18B7B83A127167A500C4C9E7 /* pressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pressed.png; sourceTree = "<group>"; };
+		18B7B83B127167A500C4C9E7 /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
+		18B7B83C127167A500C4C9E7 /* source.plist */ = {isa = PBXFileReference; fileEncoding = 2147486000; lastKnownFileType = text.plist.xml; path = source.plist; sourceTree = "<group>"; };
+		18B7B89C12716ED600C4C9E7 /* info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = info.png; sourceTree = "<group>"; };
+		18B7B8E6127172C100C4C9E7 /* headericon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = headericon.png; sourceTree = "<group>"; };
+		18B7B9081271752800C4C9E7 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		18B7BAA91271913B00C4C9E7 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		18B7BAAA1271913B00C4C9E7 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = China36PlansAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* China36PlansAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = China36PlansAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* QQList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QQList.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28A0AAE50D9B0CCF005BE974 /* QQList_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QQList_Prefix.pch; sourceTree = "<group>"; };
+		28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		28C286E00D94DF7D0034E888 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */,
+				18B7B9091271752800C4C9E7 /* iAd.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				28C286DF0D94DF7D0034E888 /* RootViewController.h */,
+				28C286E00D94DF7D0034E888 /* RootViewController.m */,
+				1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */,
+				1D3623250D0F684500981E51 /* China36PlansAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		18B7B8341271676C00C4C9E7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				18922BBE12D6F57E002BBFD4 /* online.png */,
+				18922BBF12D6F57E002BBFD4 /* unOnline.png */,
+				18B7BAA91271913B00C4C9E7 /* Default.png */,
+				18B7BAAA1271913B00C4C9E7 /* icon.png */,
+				18B7B8E6127172C100C4C9E7 /* headericon.png */,
+				18B7B89C12716ED600C4C9E7 /* info.png */,
+				18B7B835127167A500C4C9E7 /* bgd.jpg */,
+				18B7B836127167A500C4C9E7 /* bgd1.png */,
+				18B7B837127167A500C4C9E7 /* QQList-Info.plist */,
+				18B7B838127167A500C4C9E7 /* MainWindow.xib */,
+				18B7B839127167A500C4C9E7 /* normal.png */,
+				18B7B83A127167A500C4C9E7 /* pressed.png */,
+				18B7B83B127167A500C4C9E7 /* RootViewController.xib */,
+				18B7B83C127167A500C4C9E7 /* source.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* QQList.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				18B7B8341271676C00C4C9E7 /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				28A0AAE50D9B0CCF005BE974 /* QQList_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */,
+				18B7B9081271752800C4C9E7 /* iAd.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* QQList */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "QQList" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = QQList;
+			productName = China36Plans;
+			productReference = 1D6058910D05DD3D006BFB54 /* QQList.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "QQList" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* QQList */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18B7B83D127167A500C4C9E7 /* bgd.jpg in Resources */,
+				18B7B83E127167A500C4C9E7 /* bgd1.png in Resources */,
+				18B7B840127167A500C4C9E7 /* MainWindow.xib in Resources */,
+				18B7B841127167A500C4C9E7 /* normal.png in Resources */,
+				18B7B842127167A500C4C9E7 /* pressed.png in Resources */,
+				18B7B843127167A500C4C9E7 /* RootViewController.xib in Resources */,
+				18B7B844127167A500C4C9E7 /* source.plist in Resources */,
+				18B7B89D12716ED600C4C9E7 /* info.png in Resources */,
+				18B7B8E7127172C100C4C9E7 /* headericon.png in Resources */,
+				18B7BAAB1271913B00C4C9E7 /* Default.png in Resources */,
+				18B7BAAC1271913B00C4C9E7 /* icon.png in Resources */,
+				18922BC012D6F57E002BBFD4 /* online.png in Resources */,
+				18922BC112D6F57E002BBFD4 /* unOnline.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* China36PlansAppDelegate.m in Sources */,
+				28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		18B7BABB127194B600C4C9E7 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: liu shoupen";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: liu shoupen";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "7FA54077-06AC-453C-8317-79C92249B33D";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "7FA54077-06AC-453C-8317-79C92249B33D";
+				SDKROOT = iphoneos4.1;
+			};
+			name = Distribution;
+		};
+		18B7BABC127194B600C4C9E7 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = QQList_Prefix.pch;
+				INFOPLIST_FILE = "QQList-Info.plist";
+				PRODUCT_NAME = QQList;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Distribution;
+		};
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = QQList_Prefix.pch;
+				INFOPLIST_FILE = "QQList-Info.plist";
+				PRODUCT_NAME = QQList;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = QQList_Prefix.pch;
+				INFOPLIST_FILE = "QQList-Info.plist";
+				PRODUCT_NAME = QQList;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "QQList" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				18B7BABC127194B600C4C9E7 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "QQList" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				18B7BABB127194B600C4C9E7 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

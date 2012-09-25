@@ -1,0 +1,559 @@
+// !$*UTF8*$!
+{
+	186BB300128B8A6200A6F3A6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 18B7B837127167A500C4C9E7 /* QQList-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/apple/Desktop/China36Plans/China36Plans-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	186BB30A128B8ACF00A6F3A6 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 18B7B83A127167A500C4C9E7 /* pressed.png */;
+	};
+	18915D2712C4977D0053C6A4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 18B7BAAA1271913B00C4C9E7 /* icon.png */;
+	};
+	18915D2812C4977D0053C6A4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 18B7B8E6127172C100C4C9E7 /* headericon.png */;
+	};
+	18915D2912C4977D0053C6A4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 18B7B89C12716ED600C4C9E7 /* info.png */;
+	};
+	18915D2A12C4977D0053C6A4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 18B7B835127167A500C4C9E7 /* bgd.jpg */;
+	};
+	18915E2012C4A1840053C6A4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 18B7B836127167A500C4C9E7 /* bgd1.png */;
+	};
+	18915E2112C4A1840053C6A4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 18B7BAA91271913B00C4C9E7 /* Default.png */;
+	};
+	18922B0612D6E9A2002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot find protocol declaration for 'ADBannerViewDelegate'";
+		fRef = 1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */;
+		rLen = 1;
+		rLoc = 11;
+		rType = 1;
+	};
+	18922B1012D6EA07002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'DetailContentViewController' undeclared (first use in this function)";
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		rLen = 0;
+		rLoc = 234;
+		rType = 1;
+	};
+	18922B1512D6EA44002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 212";
+		rLen = 0;
+		rLoc = 6359;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 6499;
+	};
+	18922B1612D6EA44002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 10";
+		rLen = 0;
+		rLoc = 169;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 82;
+	};
+	18922B1712D6EA44002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot find protocol declaration for 'ADBannerViewDelegate'";
+		fRef = 1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */;
+		rLen = 1;
+		rLoc = 11;
+		rType = 1;
+	};
+	18922B7A12D6ED95002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */;
+		name = "China36PlansAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 0;
+	};
+	18922B7B12D6ED95002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 154";
+		rLen = 1;
+		rLoc = 4858;
+		rType = 0;
+		vrLen = 1448;
+		vrLoc = 4058;
+	};
+	18922B7C12D6ED95002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */;
+		name = "China36PlansAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+	18922B8512D6EDB5002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */;
+		name = "China36PlansAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 176;
+		vrLoc = 0;
+	};
+	18922BB412D6F522002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */;
+		name = "China36PlansAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 253;
+		vrLoc = 0;
+	};
+	18922BB712D6F522002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 162";
+		rLen = 0;
+		rLoc = 5187;
+		rType = 0;
+		vrLen = 1393;
+		vrLoc = 3851;
+	};
+	18922BB812D6F522002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 215";
+		rLen = 0;
+		rLoc = 6920;
+		rType = 0;
+		vrLen = 1717;
+		vrLoc = 5476;
+	};
+	18922BBB12D6F522002BBFD4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 18B7B83C127167A500C4C9E7 /* source.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			6,
+		);
+		name = /Users/apple/Desktop/QQList/source.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	18922BBC12D6F522002BBFD4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 18B7B83C127167A500C4C9E7 /* source.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			6,
+		);
+		name = /Users/apple/Desktop/QQList/source.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	18922BC412D6F59F002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */;
+		name = "China36PlansAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 176;
+		vrLoc = 0;
+	};
+	18922BC512D6F59F002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 148";
+		rLen = 0;
+		rLoc = 4532;
+		rType = 0;
+		vrLen = 1302;
+		vrLoc = 4058;
+	};
+	18922BC812D6F60D002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */;
+		name = "China36PlansAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 253;
+		vrLoc = 0;
+	};
+	18922BC912D6F60D002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 151";
+		rLen = 0;
+		rLoc = 4595;
+		rType = 0;
+		vrLen = 1382;
+		vrLoc = 4058;
+	};
+	18922BCC12D6F676002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */;
+		name = "China36PlansAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 176;
+		vrLoc = 0;
+	};
+	18922BCD12D6F676002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 82";
+		rLen = 0;
+		rLoc = 2149;
+		rType = 0;
+		vrLen = 754;
+		vrLoc = 0;
+	};
+	18922BDE12D6F773002BBFD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */;
+		name = "China36PlansAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 176;
+		vrLoc = 0;
+	};
+	18922BDF12D6F773002BBFD4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 18B7B83C127167A500C4C9E7 /* source.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/apple/Desktop/QQList/source.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	18922BE012D6F773002BBFD4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 18B7B837127167A500C4C9E7 /* QQList-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/apple/Desktop/QQList/QQList-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	18922BE112D6F773002BBFD4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 18B7B837127167A500C4C9E7 /* QQList-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/apple/Desktop/QQList/QQList-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	18A4A3A0126FDB06002A9A4B /* QQList */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = QQList;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	18A4A3AB126FDB24002A9A4B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	18A4A3AC126FDB24002A9A4B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	18A4A6A412702A9D002A9A4B /* DetailContentViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DetailContentViewController.m;
+		path = /Users/apple/Desktop/China36Plans/Classes/DetailContentViewController.m;
+		sourceTree = "<absolute>";
+	};
+	18B7B837127167A500C4C9E7 /* QQList-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{150, 0}, {933, 607}}";
+		};
+	};
+	18B7B83C127167A500C4C9E7 /* source.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{189, 0}, {1091, 759}}";
+		};
+	};
+	18B7BAD0127195C600C4C9E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* China36PlansAppDelegate.m */;
+		name = "China36PlansAppDelegate.m: 161";
+		rLen = 18;
+		rLoc = 2860;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 3991;
+	};
+	18BB708512A37A02003FA43B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* QQList_Prefix.pch */;
+		name = "China36Plans_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 0;
+	};
+	18E3B53212D4460900B7B995 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18A4A6A412702A9D002A9A4B /* DetailContentViewController.m */;
+		name = "DetailContentViewController.m: 52";
+		rLen = 0;
+		rLoc = 1132;
+		rType = 0;
+		vrLen = 109;
+		vrLoc = 1109;
+	};
+	1D3623240D0F684500981E51 /* China36PlansAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {585, 312}}";
+			sepNavSelRange = "{176, 0}";
+			sepNavVisRange = "{0, 176}";
+			sepNavWindowFrame = "{{229, 71}, {1051, 676}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* China36PlansAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1313}}";
+			sepNavSelRange = "{2878, 0}";
+			sepNavVisRange = "{1970, 937}";
+			sepNavWindowFrame = "{{72, 76}, {1213, 670}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* QQList */ = {
+		activeExec = 0;
+		executables = (
+			18A4A3A0126FDB06002A9A4B /* QQList */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* QQList_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 227}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 330}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {585, 416}}";
+			sepNavSelRange = "{169, 0}";
+			sepNavVisRange = "{82, 247}";
+			sepNavWindowFrame = "{{62, 126}, {933, 607}}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1154, 3601}}";
+			sepNavSelRange = "{2149, 0}";
+			sepNavVisRange = "{0, 754}";
+			sepNavWindowFrame = "{{634, -83}, {1213, 670}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 18A4A3A0126FDB06002A9A4B /* QQList */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* QQList */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* QQList */,
+		);
+		codeSenseManager = 18A4A3AC126FDB24002A9A4B /* Code sense */;
+		executables = (
+			18A4A3A0126FDB06002A9A4B /* QQList */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					295,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					407,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					211,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					367,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316075434;
+			PBXWorkspaceStateSaveDate = 316075434;
+		};
+		perUserProjectItems = {
+			186BB300128B8A6200A6F3A6 = 186BB300128B8A6200A6F3A6 /* PlistBookmark */;
+			186BB30A128B8ACF00A6F3A6 = 186BB30A128B8ACF00A6F3A6 /* PBXBookmark */;
+			18915D2712C4977D0053C6A4 = 18915D2712C4977D0053C6A4 /* PBXBookmark */;
+			18915D2812C4977D0053C6A4 = 18915D2812C4977D0053C6A4 /* PBXBookmark */;
+			18915D2912C4977D0053C6A4 = 18915D2912C4977D0053C6A4 /* PBXBookmark */;
+			18915D2A12C4977D0053C6A4 = 18915D2A12C4977D0053C6A4 /* PBXBookmark */;
+			18915E2012C4A1840053C6A4 = 18915E2012C4A1840053C6A4 /* PBXBookmark */;
+			18915E2112C4A1840053C6A4 = 18915E2112C4A1840053C6A4 /* PBXBookmark */;
+			18922B0612D6E9A2002BBFD4 = 18922B0612D6E9A2002BBFD4 /* PBXTextBookmark */;
+			18922B1012D6EA07002BBFD4 = 18922B1012D6EA07002BBFD4 /* PBXTextBookmark */;
+			18922B1512D6EA44002BBFD4 = 18922B1512D6EA44002BBFD4 /* PBXTextBookmark */;
+			18922B1612D6EA44002BBFD4 = 18922B1612D6EA44002BBFD4 /* PBXTextBookmark */;
+			18922B1712D6EA44002BBFD4 = 18922B1712D6EA44002BBFD4 /* PBXTextBookmark */;
+			18922B7A12D6ED95002BBFD4 = 18922B7A12D6ED95002BBFD4 /* PBXTextBookmark */;
+			18922B7B12D6ED95002BBFD4 = 18922B7B12D6ED95002BBFD4 /* PBXTextBookmark */;
+			18922B7C12D6ED95002BBFD4 = 18922B7C12D6ED95002BBFD4 /* PBXTextBookmark */;
+			18922B8512D6EDB5002BBFD4 /* PBXTextBookmark */ = 18922B8512D6EDB5002BBFD4 /* PBXTextBookmark */;
+			18922BB412D6F522002BBFD4 /* PBXTextBookmark */ = 18922BB412D6F522002BBFD4 /* PBXTextBookmark */;
+			18922BB712D6F522002BBFD4 /* PBXTextBookmark */ = 18922BB712D6F522002BBFD4 /* PBXTextBookmark */;
+			18922BB812D6F522002BBFD4 /* PBXTextBookmark */ = 18922BB812D6F522002BBFD4 /* PBXTextBookmark */;
+			18922BBB12D6F522002BBFD4 /* PlistBookmark */ = 18922BBB12D6F522002BBFD4 /* PlistBookmark */;
+			18922BBC12D6F522002BBFD4 /* PlistBookmark */ = 18922BBC12D6F522002BBFD4 /* PlistBookmark */;
+			18922BC412D6F59F002BBFD4 /* PBXTextBookmark */ = 18922BC412D6F59F002BBFD4 /* PBXTextBookmark */;
+			18922BC512D6F59F002BBFD4 /* PBXTextBookmark */ = 18922BC512D6F59F002BBFD4 /* PBXTextBookmark */;
+			18922BC812D6F60D002BBFD4 /* PBXTextBookmark */ = 18922BC812D6F60D002BBFD4 /* PBXTextBookmark */;
+			18922BC912D6F60D002BBFD4 /* PBXTextBookmark */ = 18922BC912D6F60D002BBFD4 /* PBXTextBookmark */;
+			18922BCC12D6F676002BBFD4 /* PBXTextBookmark */ = 18922BCC12D6F676002BBFD4 /* PBXTextBookmark */;
+			18922BCD12D6F676002BBFD4 /* PBXTextBookmark */ = 18922BCD12D6F676002BBFD4 /* PBXTextBookmark */;
+			18922BDE12D6F773002BBFD4 /* PBXTextBookmark */ = 18922BDE12D6F773002BBFD4 /* PBXTextBookmark */;
+			18922BDF12D6F773002BBFD4 /* PlistBookmark */ = 18922BDF12D6F773002BBFD4 /* PlistBookmark */;
+			18922BE012D6F773002BBFD4 /* PlistBookmark */ = 18922BE012D6F773002BBFD4 /* PlistBookmark */;
+			18922BE112D6F773002BBFD4 /* PlistBookmark */ = 18922BE112D6F773002BBFD4 /* PlistBookmark */;
+			18B7BAD0127195C600C4C9E7 = 18B7BAD0127195C600C4C9E7 /* PBXTextBookmark */;
+			18BB708512A37A02003FA43B = 18BB708512A37A02003FA43B /* PBXTextBookmark */;
+			18E3B53212D4460900B7B995 = 18E3B53212D4460900B7B995 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 18A4A3AB126FDB24002A9A4B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
